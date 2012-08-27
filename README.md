@@ -1,4 +1,5 @@
 oauth-gae
 =========
 
-OAuth2 GAE Douban Weibo QQ
+OAuth2.0 for GAE 
+It contains Douban,Weibo,QQ
